@@ -1,2 +1,2 @@
 # TheJoelCoffe
-App oara harmonizaçao de cafe
+App para harmonizaçao de cafe
